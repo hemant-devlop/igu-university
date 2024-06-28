@@ -1,0 +1,13 @@
+.top-bar{
+    flex: 1;
+}
+
+
+.btn-top{
+    background-color: #f65213 !important;
+    color: #ffffff !important;
+}
+
+.top-contact{
+    text-decoration: none;
+}
